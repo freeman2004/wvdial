@@ -1,6 +1,6 @@
 wvdial
 ======
-Go to wvdial/X86/ubuntu10.04, then type make under ubuntu 10.04. 
+Go to wvdial/X86/ubuntu10.04, then type "make" under ubuntu 10.04. 
 
 The script will do automatically.  
 
